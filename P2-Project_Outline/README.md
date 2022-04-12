@@ -7,6 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+Grocery Meal Prep App:
 Create an app in which a user could add ingredients to a grocery list, those ingredients would be added as inventory into a database, then the user could use those items to create meals/recipes. We should break those ingredients down by protein, carb, veg, etc. Once items are used, they are removed from the current inventory, which would also let the user know when items need to be replenished. Ideally, the user would never be without the full ingredients to make a meal, they would also know when it was time to go grocery shopping, and what items needed to be purchased. There is nothing worse than having to make a grocery list, or decide what's for dinner. 
 ### Features
 1. Users can create/authenticate accounts: must log in in order to get into the app
