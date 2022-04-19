@@ -10,11 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Wireframes: 
 
-* [Wireframe 1] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe1.png)
-* [Wireframe 2] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe2.png)
-* [Wireframe 3] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe3.png)
-* [Wireframe 4] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe4.png)
-* [Wireframe 5] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe5.png)
+[Wireframe 1] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe1.png)
+[Wireframe 2] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe2.png)
+[Wireframe 3] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe3.png)
+[Wireframe 4] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe4.png)
+[Wireframe 5] (https://github.com/educia27/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe5.png)
 
 ### Project Tracker
 
